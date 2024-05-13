@@ -180,7 +180,11 @@ footer>div>p{
     nav{
         height: 310px;
     }
+    section>div>a>img{
+        size: 50%;
+    }
 }
+
 @media(max-width:760px){
     section>div{
         padding: 20px;
