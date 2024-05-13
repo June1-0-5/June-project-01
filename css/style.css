@@ -175,13 +175,14 @@ footer>div>p{
     nav{
         height: 210px;
     }
+        section>div>a>img{
+        height: 50%;
+        width: 50%;
+    }
 }
 @media(max-width:300px){
     nav{
         height: 310px;
-    }
-    section>div>a>img{
-        size: 50%;
     }
 }
 
